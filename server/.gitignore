@@ -1,0 +1,14 @@
+# Project folders #
+###################
+node_modules/
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# npm & node files   #
+######################
+npm-debug.log

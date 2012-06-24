@@ -1,0 +1,10 @@
+{
+    "name": "nomasbaches!"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "express": "latest"
+    , "ejs": "latest"
+    , "mongodb": "latest"
+  }
+}
